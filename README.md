@@ -6,7 +6,7 @@ Submitted by: **Clinton Nwokike**
 
 Time spent: **4** hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/noon-alive-eustoma?path=index.html%3A22%3A70)
+Link to project: (https://glitch.com/edit/#!/codepath-prework-game-clinton?path=index.html%3A9%3A47)
 
 ## Required Functionality
 
