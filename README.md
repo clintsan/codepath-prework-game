@@ -6,7 +6,7 @@ Submitted by: **Clinton Nwokike**
 
 Time spent: **4** hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/codepath-prework-game-clinton?path=index.html%3A9%3A47)
+Link to project: (https://glitch.com/edit/#!/codepath-prework-game-clinton)
 
 ## Required Functionality
 
