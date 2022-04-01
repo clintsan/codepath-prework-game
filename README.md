@@ -61,7 +61,7 @@ If I didn't have so many time constraints conscerning exams and homeworks given 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/addab4b527a747eb97fe4f77db40714f)
 
 
 ## License
