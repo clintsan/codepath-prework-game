@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+- [x] Create Difficulty levels to choose from which would provide more buttons to keep up with, different speeds and shorter times to reply.
 
 ## Video Walkthrough (GIF)
 
